@@ -29,78 +29,50 @@ This project fulfills the key assessment goals:
 ## Repository Structure
 PWHL_DE_TAKEHOME/
 │
-├── .venv/
+├── .venv/                    # Virtual environment directory (ignored by .gitignore)
+├── .vscode/                  # Visual Studio Code settings (optional)
+├── config/                   # Configuration files for the project
+│   ├── markets.yml           # Market configuration
+│   └── settings.yml          # Additional settings configuration
 │
-├── .vscode/
-│ └── settings.json
+├── data/                     # Data folder containing raw and cleaned data
+│   ├── cleaned/              # Cleaned data for analysis and modeling
+│   │   ├── dim_market.csv    # Market dimension data
+│   │   ├── fact_ticket_sales_with_weather.csv  # Fact table with integrated weather data
+│   │   └── (other cleaned CSV files)
+│   │
+│   ├── raw/                  # Raw data used in the pipeline
+│   │   ├── weather/          # Raw weather data
+│   │   ├── pwhl_ticket_sales.csv # Raw ticket sales data
+│   │   └── (other raw CSV files)
+│   │
+│   └── reference/            # Reference files like data dictionary
+│       └── pwhl_data_dictionary.csv # Contains descriptions of dataset fields
 │
-├── config/
-│ ├── markets.yml
-│ └── settings.yml
+├── docs/                     # Documentation folder (e.g., schema diagrams)
+│   └── star_schema.png       # Star schema diagram for the data model
 │
-├── data/
-│ ├── cleaned/
-│ │ ├── dim_market.csv
-│ │ ├── fact_ticket_sales_with_weather.csv
-│ │ ├── section_capacity_clean.csv
-│ │ ├── ticket_sales_clean_all_markets.csv
-│ │ ├── ticket_sales_clean_BOS_01.csv
-│ │ ├── ticket_sales_clean_CHI_01.csv
-│ │ ├── ticket_sales_clean_MSP_01.csv
-│ │ ├── ticket_sales_clean_MTL_01.csv
-│ │ ├── ticket_sales_clean_NYC_01.csv
-│ │ ├── ticket_sales_clean_OTT_01.csv
-│ │ ├── ticket_sales_clean_TOR_01.csv
-│ │ ├── ticket_sales_clean_WAS_01.csv
-│ │ ├── ticket_sales_clean.csv
-│ │ ├── weather_daily_by_venue.csv
-│ │ └── weather_hourly_tidy.csv
-│ │
-│ ├── raw/
-│ │ ├── weather/
-│ │ ├── game_section_capacity.csv
-│ │ └── pwhl_ticket_sales.csv
-│ │
-│ ├── reference/
-│ │ └── pwhl_data_dictionary.csv
-│ │
-│ └── tmp/
+├── logs/                     # Logs for ETL process
+│   ├── clean_section_capacity.log
+│   ├── clean_ticket_sales.log
+│   └── (other log files)
 │
-├── logs/
-│ ├── clean_section_capacity.log
-│ ├── clean_ticket_sales.log
-│ ├── ingest_weather.log
-│ ├── integrate_weather_sales.log
-│ └── transform_weather.log
+├── pwhl_de_takehome/         # Internal package (if applicable)
+├── scripts/                  # Python scripts for the ETL pipeline
+│   ├── ingest_weather.py     # Script to ingest weather data
+│   ├── clean_ticket_sales.py # Data cleaning for ticket sales
+│   └── (other ETL scripts)
 │
-├── pwhl_de_takehome/
-│ └── (internal package)
+├── sql/                      # SQL scripts for BigQuery
+│   ├── 01_create_dataset.sql # Script to create BigQuery dataset
+│   ├── 02_create_dims_and_facts.sql # Script to create dimensions and facts tables
+│   └── (other SQL files)
 │
-├── scripts/
-│ ├── clean_section_capacity.py
-│ ├── clean_ticket_sales.py
-│ ├── ingest_weather.py
-│ ├── integrate_weather_sales.py
-│ ├── load_to_bq.py
-│ ├── materialize_dim_market.py
-│ └── transform_weather.py
-│
-├── sql/
-│ ├── 01_create_dataset.sql
-│ ├── 02_create_dims_and_facts.sql
-│ ├── 03_create_views.sql
-│ └── 10_eda_queries.sql
-│
-├── .env
-├── .env.example
-├── .gitignore
-├── requirements.txt
-├── run_pipeline.py
-├── README.md
-└── backup_nested_folder.zip
-
-yaml
-
+├── .gitignore                # Git ignore rules for the project
+├── README.md                 # Project documentation
+├── requirements.txt          # Python dependencies
+├── run_pipeline.py           # Main entry point to run the ETL pipeline
+└── .env.example              # Example .env file (containing placeholders for API keys and environment variables)
 ---
 
 # Setup Instructions
@@ -372,3 +344,4 @@ Overall, the EDA demonstrates that the data pipeline, schema design, and BigQuer
 **Name:** Roman Esquibel
 **Date:** November 2025
 **Contact:**  romanesquib@gmail.com
+
