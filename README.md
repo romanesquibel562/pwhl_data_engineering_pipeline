@@ -27,54 +27,54 @@ This project fulfills the key assessment goals:
 ---
 
 ## Repository Structure
-
+<pre> ``` 
 PWHL_DE_TAKEHOME/
 │
-├── .venv/ # Virtual environment directory (ignored by .gitignore)
-├── .vscode/ # Visual Studio Code settings (optional)
-├── config/ # Configuration files for the project
-│ ├── markets.yml # Market configuration
-│ └── settings.yml # Additional settings configuration
+├── .venv/                    # Virtual environment directory (ignored by .gitignore)
+├── .vscode/                  # Visual Studio Code settings (optional)
+├── config/                   # Configuration files for the project
+│   ├── markets.yml           # Market configuration
+│   └── settings.yml          # Additional settings configuration
 │
-├── data/ # Data folder containing raw and cleaned data
-│ ├── cleaned/ # Cleaned data for analysis and modeling
-│ │ ├── dim_market.csv # Market dimension data
-│ │ ├── fact_ticket_sales_with_weather.csv # Fact table with integrated weather data
-│ │ └── (other cleaned CSV files)
-│ │
-│ ├── raw/ # Raw data used in the pipeline
-│ │ ├── weather/ # Raw weather data
-│ │ ├── pwhl_ticket_sales.csv # Raw ticket sales data
-│ │ └── (other raw CSV files)
-│ │
-│ └── reference/ # Reference files like data dictionary
-│ └── pwhl_data_dictionary.csv # Contains descriptions of dataset fields
+├── data/                     # Data folder containing raw and cleaned data
+│   ├── cleaned/              # Cleaned data for analysis and modeling
+│   │   ├── dim_market.csv    # Market dimension data
+│   │   ├── fact_ticket_sales_with_weather.csv  # Fact table with integrated weather data
+│   │   └── (other cleaned CSV files)
+│   │
+│   ├── raw/                  # Raw data used in the pipeline
+│   │   ├── weather/          # Raw weather data
+│   │   ├── pwhl_ticket_sales.csv # Raw ticket sales data
+│   │   └── (other raw CSV files)
+│   │
+│   └── reference/            # Reference files like data dictionary
+│       └── pwhl_data_dictionary.csv # Contains descriptions of dataset fields
 │
-├── docs/ # Documentation folder (e.g., schema diagrams)
-│ └── star_schema.png # Star schema diagram for the data model
+├── docs/                     # Documentation folder (e.g., schema diagrams)
+│   └── star_schema.png       # Star schema diagram for the data model
 │
-├── logs/ # Logs for ETL process
-│ ├── clean_section_capacity.log
-│ ├── clean_ticket_sales.log
-│ └── (other log files)
+├── logs/                     # Logs for ETL process
+│   ├── clean_section_capacity.log
+│   ├── clean_ticket_sales.log
+│   └── (other log files)
 │
-├── pwhl_de_takehome/ # Internal package (if applicable)
-├── scripts/ # Python scripts for the ETL pipeline
-│ ├── ingest_weather.py # Script to ingest weather data
-│ ├── clean_ticket_sales.py # Data cleaning for ticket sales
-│ └── (other ETL scripts)
+├── pwhl_de_takehome/         # Internal package (if applicable)
+├── scripts/                  # Python scripts for the ETL pipeline
+│   ├── ingest_weather.py     # Script to ingest weather data
+│   ├── clean_ticket_sales.py # Data cleaning for ticket sales
+│   └── (other ETL scripts)
 │
-├── sql/ # SQL scripts for BigQuery
-│ ├── 01_create_dataset.sql # Script to create BigQuery dataset
-│ ├── 02_create_dims_and_facts.sql # Script to create dimensions and facts tables
-│ └── (other SQL files)
+├── sql/                      # SQL scripts for BigQuery
+│   ├── 01_create_dataset.sql # Script to create BigQuery dataset
+│   ├── 02_create_dims_and_facts.sql # Script to create dimensions and facts tables
+│   └── (other SQL files)
 │
-├── .gitignore # Git ignore rules for the project
-├── README.md # Project documentation
-├── requirements.txt # Python dependencies
-├── run_pipeline.py # Main entry point to run the ETL pipeline
-└── .env.example # Example .env file (containing placeholders for API keys and environment variables)
----
+├── .gitignore                # Git ignore rules for the project
+├── README.md                 # Project documentation
+├── requirements.txt          # Python dependencies
+├── run_pipeline.py           # Main entry point to run the ETL pipeline
+└── .env.example              # Example .env file (containing placeholders for API keys and environment variables)
+``` </pre>
 
 # Setup Instructions
 
@@ -345,5 +345,6 @@ Overall, the EDA demonstrates that the data pipeline, schema design, and BigQuer
 **Name:** Roman Esquibel
 **Date:** November 2025
 **Contact:**  romanesquib@gmail.com
+
 
 
