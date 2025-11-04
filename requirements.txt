@@ -1,26 +1,12 @@
-﻿# PWHL Data Engineering Take-Home
+# Required Python packages for the project
 
-This repository contains a minimal, reproducible ELT:
-- Weather ingest (OpenWeather) for Jan–Feb 2025 (8 market cities)
-- Cleaning/joins with provided CSVs
-- BigQuery load (sandbox)
-- EDA + star schema views
-
-## Quickstart
-1) Create & activate venv
-2) \pip install -r requirements.txt\
-3) Configure \config/*.yml\ and \.env\
-4) Run scripts in \scripts/\
-"@ | Out-File "README.md" -Encoding utf8 -Force
-
-@"
-pandas
-requests
-python-dotenv
-pyyaml
-pandas-gbq
-google-cloud-bigquery
-prefect
-google-auth
+pandas==1.3.3
+requests==2.26.0
+python-dotenv==0.19.2
+pyyaml==5.4.1
+pandas-gbq==0.15.0
+google-cloud-bigquery==3.1.0
+prefect==2.0.0
+google-auth==2.3.0
 
 
