@@ -63,18 +63,18 @@ def main():
     logging.info("Reading raw weather: %s", raw_csv)
     df = pd.read_csv(raw_csv)
 
-    # REQUIRED MINIMAL COLUMNS present in your file
+    
     required_min = {"time", "temperature_2m", "relative_humidity_2m", "wind_speed_10m", "precipitation", "market", "venue"}
     missing_min = required_min.difference(df.columns)
     if missing_min:
         logging.error("Missing required columns: %s", ", ".join(sorted(missing_min)))
         return
 
-    # Parse time & event_date
+    # Parsing time & event_date
     df["time"] = pd.to_datetime(df["time"], errors="coerce")
     df["event_date"] = df["time"].dt.date
 
-    # Rename weather columns
+    # Renaming weather columns
     df = df.rename(columns={
         "temperature_2m": "temp_c",
         "relative_humidity_2m": "rh_pct",
@@ -82,7 +82,7 @@ def main():
         "precipitation": "precip_mm",
     })
 
-    # Numeric coercion
+    # Numeric coercion (convert to correct dtypes):
     for c in ["temp_c", "rh_pct", "wind_mps", "precip_mm"]:
         df[c] = pd.to_numeric(df[c], errors="coerce")
 
@@ -151,4 +151,5 @@ if __name__ == "__main__":
     main()
 
 # run code:
+
 # python scripts/transform_weather.py
