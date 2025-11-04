@@ -1,0 +1,64 @@
+﻿markets:
+  - market: Boston
+    country: US
+    venue_id: BOS_01
+    venue: PWHL Boston Arena
+    lat: 42.3601
+    lon: -71.0589
+    timezone: America/New_York
+
+  - market: Minneapolis
+    country: US
+    venue_id: MSP_01
+    venue: PWHL Minnesota Arena
+    lat: 44.9778
+    lon: -93.2650
+    timezone: America/Chicago
+
+  - market: Montreal
+    country: CA
+    venue_id: MTL_01
+    venue: PWHL Montreal Arena
+    lat: 45.5017
+    lon: -73.5673
+    timezone: America/Toronto
+
+  - market: New York
+    country: US
+    venue_id: NYC_01
+    venue: PWHL New York Arena
+    lat: 40.7128
+    lon: -74.0060
+    timezone: America/New_York
+
+  - market: Ottawa
+    country: CA
+    venue_id: OTT_01
+    venue: PWHL Ottawa Arena
+    lat: 45.4215
+    lon: -75.6972
+    timezone: America/Toronto
+
+  - market: Toronto
+    country: CA
+    venue_id: TOR_01
+    venue: PWHL Toronto Arena
+    lat: 43.6532
+    lon: -79.3832
+    timezone: America/Toronto
+
+  - market: Washington
+    country: US
+    venue_id: WAS_01
+    venue: PWHL Washington Arena
+    lat: 38.9072
+    lon: -77.0369
+    timezone: America/New_York
+
+  - market: Chicago
+    country: US
+    venue_id: CHI_01
+    venue: PWHL Chicago Arena
+    lat: 41.8781
+    lon: -87.6298
+    timezone: America/Chicago

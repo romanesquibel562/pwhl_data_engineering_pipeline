@@ -1,0 +1,9 @@
+venue_id,market,venue,country,lat,lon,timezone
+BOS_01,Boston,PWHL Boston Arena,US,42.3601,-71.0589,America/New_York
+MSP_01,Minneapolis,PWHL Minnesota Arena,US,44.9778,-93.265,America/Chicago
+MTL_01,Montreal,PWHL Montreal Arena,CA,45.5017,-73.5673,America/Toronto
+NYC_01,New York,PWHL New York Arena,US,40.7128,-74.006,America/New_York
+OTT_01,Ottawa,PWHL Ottawa Arena,CA,45.4215,-75.6972,America/Toronto
+TOR_01,Toronto,PWHL Toronto Arena,CA,43.6532,-79.3832,America/Toronto
+WAS_01,Washington,PWHL Washington Arena,US,38.9072,-77.0369,America/New_York
+CHI_01,Chicago,PWHL Chicago Arena,US,41.8781,-87.6298,America/Chicago

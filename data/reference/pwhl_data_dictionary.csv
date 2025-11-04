@@ -1,0 +1,15 @@
+Field Name,Source,Description
+event_date,pwhl_ticket_sales_sample.csv,Date of the game/event
+section,pwhl_ticket_sales_sample.csv,Seating section of the ticket
+row,pwhl_ticket_sales_sample.csv,Row number in the section
+seat,pwhl_ticket_sales_sample.csv,Seat number
+ticket_price,pwhl_ticket_sales_sample.csv,Price per ticket (in USD)
+purchase_channel,pwhl_ticket_sales_sample.csv,Channel used for purchase
+acct_id,pwhl_ticket_sales_sample.csv,Unique account ID of the purchaser
+num_tickets,pwhl_ticket_sales_sample.csv,Number of tickets purchased in this transaction
+total_spend,pwhl_ticket_sales_sample.csv,Total spend for this transaction (ticket_price x num_tickets)
+event_date,game_capacity.csv,Date of the game/event
+capacity,game_capacity.csv,Total venue capacity for the event
+event_date,game_section_capacity.csv,Date of the game/event
+section,game_section_capacity.csv,Seating section name
+section_capacity,game_section_capacity.csv,Total number of seats available in this section for the event

@@ -1,0 +1,601 @@
+event_date,market,venue_id,venue,section,section_capacity
+2025-01-01,Boston,BOS_01,PWHL Boston Arena,Club,1166
+2025-01-01,Boston,BOS_01,PWHL Boston Arena,Lower Bowl,2721
+2025-01-01,Boston,BOS_01,PWHL Boston Arena,Standing Room,388
+2025-01-01,Boston,BOS_01,PWHL Boston Arena,Suite,777
+2025-01-01,Boston,BOS_01,PWHL Boston Arena,Upper Bowl,2721
+2025-01-01,Chicago,CHI_01,PWHL Chicago Arena,Club,1166
+2025-01-01,Chicago,CHI_01,PWHL Chicago Arena,Lower Bowl,2721
+2025-01-01,Chicago,CHI_01,PWHL Chicago Arena,Standing Room,388
+2025-01-01,Chicago,CHI_01,PWHL Chicago Arena,Suite,777
+2025-01-01,Chicago,CHI_01,PWHL Chicago Arena,Upper Bowl,2721
+2025-01-01,Minneapolis,MSP_01,PWHL Minnesota Arena,Club,1166
+2025-01-01,Minneapolis,MSP_01,PWHL Minnesota Arena,Lower Bowl,2721
+2025-01-01,Minneapolis,MSP_01,PWHL Minnesota Arena,Standing Room,388
+2025-01-01,Minneapolis,MSP_01,PWHL Minnesota Arena,Suite,777
+2025-01-01,Minneapolis,MSP_01,PWHL Minnesota Arena,Upper Bowl,2721
+2025-01-01,Montreal,MTL_01,PWHL Montreal Arena,Club,1166
+2025-01-01,Montreal,MTL_01,PWHL Montreal Arena,Lower Bowl,2721
+2025-01-01,Montreal,MTL_01,PWHL Montreal Arena,Standing Room,388
+2025-01-01,Montreal,MTL_01,PWHL Montreal Arena,Suite,777
+2025-01-01,Montreal,MTL_01,PWHL Montreal Arena,Upper Bowl,2721
+2025-01-01,New York,NYC_01,PWHL New York Arena,Club,1166
+2025-01-01,New York,NYC_01,PWHL New York Arena,Lower Bowl,2721
+2025-01-01,New York,NYC_01,PWHL New York Arena,Standing Room,388
+2025-01-01,New York,NYC_01,PWHL New York Arena,Suite,777
+2025-01-01,New York,NYC_01,PWHL New York Arena,Upper Bowl,2721
+2025-01-01,Ottawa,OTT_01,PWHL Ottawa Arena,Club,1166
+2025-01-01,Ottawa,OTT_01,PWHL Ottawa Arena,Lower Bowl,2721
+2025-01-01,Ottawa,OTT_01,PWHL Ottawa Arena,Standing Room,388
+2025-01-01,Ottawa,OTT_01,PWHL Ottawa Arena,Suite,777
+2025-01-01,Ottawa,OTT_01,PWHL Ottawa Arena,Upper Bowl,2721
+2025-01-01,Toronto,TOR_01,PWHL Toronto Arena,Club,1166
+2025-01-01,Toronto,TOR_01,PWHL Toronto Arena,Lower Bowl,2721
+2025-01-01,Toronto,TOR_01,PWHL Toronto Arena,Standing Room,388
+2025-01-01,Toronto,TOR_01,PWHL Toronto Arena,Suite,777
+2025-01-01,Toronto,TOR_01,PWHL Toronto Arena,Upper Bowl,2721
+2025-01-01,Washington,WAS_01,PWHL Washington Arena,Club,1166
+2025-01-01,Washington,WAS_01,PWHL Washington Arena,Lower Bowl,2721
+2025-01-01,Washington,WAS_01,PWHL Washington Arena,Standing Room,388
+2025-01-01,Washington,WAS_01,PWHL Washington Arena,Suite,777
+2025-01-01,Washington,WAS_01,PWHL Washington Arena,Upper Bowl,2721
+2025-01-04,Boston,BOS_01,PWHL Boston Arena,Club,1147
+2025-01-04,Boston,BOS_01,PWHL Boston Arena,Lower Bowl,2677
+2025-01-04,Boston,BOS_01,PWHL Boston Arena,Standing Room,382
+2025-01-04,Boston,BOS_01,PWHL Boston Arena,Suite,765
+2025-01-04,Boston,BOS_01,PWHL Boston Arena,Upper Bowl,2677
+2025-01-04,Chicago,CHI_01,PWHL Chicago Arena,Club,1147
+2025-01-04,Chicago,CHI_01,PWHL Chicago Arena,Lower Bowl,2677
+2025-01-04,Chicago,CHI_01,PWHL Chicago Arena,Standing Room,382
+2025-01-04,Chicago,CHI_01,PWHL Chicago Arena,Suite,765
+2025-01-04,Chicago,CHI_01,PWHL Chicago Arena,Upper Bowl,2677
+2025-01-04,Minneapolis,MSP_01,PWHL Minnesota Arena,Club,1147
+2025-01-04,Minneapolis,MSP_01,PWHL Minnesota Arena,Lower Bowl,2677
+2025-01-04,Minneapolis,MSP_01,PWHL Minnesota Arena,Standing Room,382
+2025-01-04,Minneapolis,MSP_01,PWHL Minnesota Arena,Suite,765
+2025-01-04,Minneapolis,MSP_01,PWHL Minnesota Arena,Upper Bowl,2677
+2025-01-04,Montreal,MTL_01,PWHL Montreal Arena,Club,1147
+2025-01-04,Montreal,MTL_01,PWHL Montreal Arena,Lower Bowl,2677
+2025-01-04,Montreal,MTL_01,PWHL Montreal Arena,Standing Room,382
+2025-01-04,Montreal,MTL_01,PWHL Montreal Arena,Suite,765
+2025-01-04,Montreal,MTL_01,PWHL Montreal Arena,Upper Bowl,2677
+2025-01-04,New York,NYC_01,PWHL New York Arena,Club,1147
+2025-01-04,New York,NYC_01,PWHL New York Arena,Lower Bowl,2677
+2025-01-04,New York,NYC_01,PWHL New York Arena,Standing Room,382
+2025-01-04,New York,NYC_01,PWHL New York Arena,Suite,765
+2025-01-04,New York,NYC_01,PWHL New York Arena,Upper Bowl,2677
+2025-01-04,Ottawa,OTT_01,PWHL Ottawa Arena,Club,1147
+2025-01-04,Ottawa,OTT_01,PWHL Ottawa Arena,Lower Bowl,2677
+2025-01-04,Ottawa,OTT_01,PWHL Ottawa Arena,Standing Room,382
+2025-01-04,Ottawa,OTT_01,PWHL Ottawa Arena,Suite,765
+2025-01-04,Ottawa,OTT_01,PWHL Ottawa Arena,Upper Bowl,2677
+2025-01-04,Toronto,TOR_01,PWHL Toronto Arena,Club,1147
+2025-01-04,Toronto,TOR_01,PWHL Toronto Arena,Lower Bowl,2677
+2025-01-04,Toronto,TOR_01,PWHL Toronto Arena,Standing Room,382
+2025-01-04,Toronto,TOR_01,PWHL Toronto Arena,Suite,765
+2025-01-04,Toronto,TOR_01,PWHL Toronto Arena,Upper Bowl,2677
+2025-01-04,Washington,WAS_01,PWHL Washington Arena,Club,1147
+2025-01-04,Washington,WAS_01,PWHL Washington Arena,Lower Bowl,2677
+2025-01-04,Washington,WAS_01,PWHL Washington Arena,Standing Room,382
+2025-01-04,Washington,WAS_01,PWHL Washington Arena,Suite,765
+2025-01-04,Washington,WAS_01,PWHL Washington Arena,Upper Bowl,2677
+2025-01-08,Boston,BOS_01,PWHL Boston Arena,Club,1223
+2025-01-08,Boston,BOS_01,PWHL Boston Arena,Lower Bowl,2855
+2025-01-08,Boston,BOS_01,PWHL Boston Arena,Standing Room,407
+2025-01-08,Boston,BOS_01,PWHL Boston Arena,Suite,815
+2025-01-08,Boston,BOS_01,PWHL Boston Arena,Upper Bowl,2855
+2025-01-08,Chicago,CHI_01,PWHL Chicago Arena,Club,1223
+2025-01-08,Chicago,CHI_01,PWHL Chicago Arena,Lower Bowl,2855
+2025-01-08,Chicago,CHI_01,PWHL Chicago Arena,Standing Room,407
+2025-01-08,Chicago,CHI_01,PWHL Chicago Arena,Suite,815
+2025-01-08,Chicago,CHI_01,PWHL Chicago Arena,Upper Bowl,2855
+2025-01-08,Minneapolis,MSP_01,PWHL Minnesota Arena,Club,1223
+2025-01-08,Minneapolis,MSP_01,PWHL Minnesota Arena,Lower Bowl,2855
+2025-01-08,Minneapolis,MSP_01,PWHL Minnesota Arena,Standing Room,407
+2025-01-08,Minneapolis,MSP_01,PWHL Minnesota Arena,Suite,815
+2025-01-08,Minneapolis,MSP_01,PWHL Minnesota Arena,Upper Bowl,2855
+2025-01-08,Montreal,MTL_01,PWHL Montreal Arena,Club,1223
+2025-01-08,Montreal,MTL_01,PWHL Montreal Arena,Lower Bowl,2855
+2025-01-08,Montreal,MTL_01,PWHL Montreal Arena,Standing Room,407
+2025-01-08,Montreal,MTL_01,PWHL Montreal Arena,Suite,815
+2025-01-08,Montreal,MTL_01,PWHL Montreal Arena,Upper Bowl,2855
+2025-01-08,New York,NYC_01,PWHL New York Arena,Club,1223
+2025-01-08,New York,NYC_01,PWHL New York Arena,Lower Bowl,2855
+2025-01-08,New York,NYC_01,PWHL New York Arena,Standing Room,407
+2025-01-08,New York,NYC_01,PWHL New York Arena,Suite,815
+2025-01-08,New York,NYC_01,PWHL New York Arena,Upper Bowl,2855
+2025-01-08,Ottawa,OTT_01,PWHL Ottawa Arena,Club,1223
+2025-01-08,Ottawa,OTT_01,PWHL Ottawa Arena,Lower Bowl,2855
+2025-01-08,Ottawa,OTT_01,PWHL Ottawa Arena,Standing Room,407
+2025-01-08,Ottawa,OTT_01,PWHL Ottawa Arena,Suite,815
+2025-01-08,Ottawa,OTT_01,PWHL Ottawa Arena,Upper Bowl,2855
+2025-01-08,Toronto,TOR_01,PWHL Toronto Arena,Club,1223
+2025-01-08,Toronto,TOR_01,PWHL Toronto Arena,Lower Bowl,2855
+2025-01-08,Toronto,TOR_01,PWHL Toronto Arena,Standing Room,407
+2025-01-08,Toronto,TOR_01,PWHL Toronto Arena,Suite,815
+2025-01-08,Toronto,TOR_01,PWHL Toronto Arena,Upper Bowl,2855
+2025-01-08,Washington,WAS_01,PWHL Washington Arena,Club,1223
+2025-01-08,Washington,WAS_01,PWHL Washington Arena,Lower Bowl,2855
+2025-01-08,Washington,WAS_01,PWHL Washington Arena,Standing Room,407
+2025-01-08,Washington,WAS_01,PWHL Washington Arena,Suite,815
+2025-01-08,Washington,WAS_01,PWHL Washington Arena,Upper Bowl,2855
+2025-01-13,Boston,BOS_01,PWHL Boston Arena,Club,1270
+2025-01-13,Boston,BOS_01,PWHL Boston Arena,Lower Bowl,2964
+2025-01-13,Boston,BOS_01,PWHL Boston Arena,Standing Room,423
+2025-01-13,Boston,BOS_01,PWHL Boston Arena,Suite,847
+2025-01-13,Boston,BOS_01,PWHL Boston Arena,Upper Bowl,2964
+2025-01-13,Chicago,CHI_01,PWHL Chicago Arena,Club,1270
+2025-01-13,Chicago,CHI_01,PWHL Chicago Arena,Lower Bowl,2964
+2025-01-13,Chicago,CHI_01,PWHL Chicago Arena,Standing Room,423
+2025-01-13,Chicago,CHI_01,PWHL Chicago Arena,Suite,847
+2025-01-13,Chicago,CHI_01,PWHL Chicago Arena,Upper Bowl,2964
+2025-01-13,Minneapolis,MSP_01,PWHL Minnesota Arena,Club,1270
+2025-01-13,Minneapolis,MSP_01,PWHL Minnesota Arena,Lower Bowl,2964
+2025-01-13,Minneapolis,MSP_01,PWHL Minnesota Arena,Standing Room,423
+2025-01-13,Minneapolis,MSP_01,PWHL Minnesota Arena,Suite,847
+2025-01-13,Minneapolis,MSP_01,PWHL Minnesota Arena,Upper Bowl,2964
+2025-01-13,Montreal,MTL_01,PWHL Montreal Arena,Club,1270
+2025-01-13,Montreal,MTL_01,PWHL Montreal Arena,Lower Bowl,2964
+2025-01-13,Montreal,MTL_01,PWHL Montreal Arena,Standing Room,423
+2025-01-13,Montreal,MTL_01,PWHL Montreal Arena,Suite,847
+2025-01-13,Montreal,MTL_01,PWHL Montreal Arena,Upper Bowl,2964
+2025-01-13,New York,NYC_01,PWHL New York Arena,Club,1270
+2025-01-13,New York,NYC_01,PWHL New York Arena,Lower Bowl,2964
+2025-01-13,New York,NYC_01,PWHL New York Arena,Standing Room,423
+2025-01-13,New York,NYC_01,PWHL New York Arena,Suite,847
+2025-01-13,New York,NYC_01,PWHL New York Arena,Upper Bowl,2964
+2025-01-13,Ottawa,OTT_01,PWHL Ottawa Arena,Club,1270
+2025-01-13,Ottawa,OTT_01,PWHL Ottawa Arena,Lower Bowl,2964
+2025-01-13,Ottawa,OTT_01,PWHL Ottawa Arena,Standing Room,423
+2025-01-13,Ottawa,OTT_01,PWHL Ottawa Arena,Suite,847
+2025-01-13,Ottawa,OTT_01,PWHL Ottawa Arena,Upper Bowl,2964
+2025-01-13,Toronto,TOR_01,PWHL Toronto Arena,Club,1270
+2025-01-13,Toronto,TOR_01,PWHL Toronto Arena,Lower Bowl,2964
+2025-01-13,Toronto,TOR_01,PWHL Toronto Arena,Standing Room,423
+2025-01-13,Toronto,TOR_01,PWHL Toronto Arena,Suite,847
+2025-01-13,Toronto,TOR_01,PWHL Toronto Arena,Upper Bowl,2964
+2025-01-13,Washington,WAS_01,PWHL Washington Arena,Club,1270
+2025-01-13,Washington,WAS_01,PWHL Washington Arena,Lower Bowl,2964
+2025-01-13,Washington,WAS_01,PWHL Washington Arena,Standing Room,423
+2025-01-13,Washington,WAS_01,PWHL Washington Arena,Suite,847
+2025-01-13,Washington,WAS_01,PWHL Washington Arena,Upper Bowl,2964
+2025-01-17,Boston,BOS_01,PWHL Boston Arena,Club,1269
+2025-01-17,Boston,BOS_01,PWHL Boston Arena,Lower Bowl,2961
+2025-01-17,Boston,BOS_01,PWHL Boston Arena,Standing Room,423
+2025-01-17,Boston,BOS_01,PWHL Boston Arena,Suite,846
+2025-01-17,Boston,BOS_01,PWHL Boston Arena,Upper Bowl,2961
+2025-01-17,Chicago,CHI_01,PWHL Chicago Arena,Club,1269
+2025-01-17,Chicago,CHI_01,PWHL Chicago Arena,Lower Bowl,2961
+2025-01-17,Chicago,CHI_01,PWHL Chicago Arena,Standing Room,423
+2025-01-17,Chicago,CHI_01,PWHL Chicago Arena,Suite,846
+2025-01-17,Chicago,CHI_01,PWHL Chicago Arena,Upper Bowl,2961
+2025-01-17,Minneapolis,MSP_01,PWHL Minnesota Arena,Club,1269
+2025-01-17,Minneapolis,MSP_01,PWHL Minnesota Arena,Lower Bowl,2961
+2025-01-17,Minneapolis,MSP_01,PWHL Minnesota Arena,Standing Room,423
+2025-01-17,Minneapolis,MSP_01,PWHL Minnesota Arena,Suite,846
+2025-01-17,Minneapolis,MSP_01,PWHL Minnesota Arena,Upper Bowl,2961
+2025-01-17,Montreal,MTL_01,PWHL Montreal Arena,Club,1269
+2025-01-17,Montreal,MTL_01,PWHL Montreal Arena,Lower Bowl,2961
+2025-01-17,Montreal,MTL_01,PWHL Montreal Arena,Standing Room,423
+2025-01-17,Montreal,MTL_01,PWHL Montreal Arena,Suite,846
+2025-01-17,Montreal,MTL_01,PWHL Montreal Arena,Upper Bowl,2961
+2025-01-17,New York,NYC_01,PWHL New York Arena,Club,1269
+2025-01-17,New York,NYC_01,PWHL New York Arena,Lower Bowl,2961
+2025-01-17,New York,NYC_01,PWHL New York Arena,Standing Room,423
+2025-01-17,New York,NYC_01,PWHL New York Arena,Suite,846
+2025-01-17,New York,NYC_01,PWHL New York Arena,Upper Bowl,2961
+2025-01-17,Ottawa,OTT_01,PWHL Ottawa Arena,Club,1269
+2025-01-17,Ottawa,OTT_01,PWHL Ottawa Arena,Lower Bowl,2961
+2025-01-17,Ottawa,OTT_01,PWHL Ottawa Arena,Standing Room,423
+2025-01-17,Ottawa,OTT_01,PWHL Ottawa Arena,Suite,846
+2025-01-17,Ottawa,OTT_01,PWHL Ottawa Arena,Upper Bowl,2961
+2025-01-17,Toronto,TOR_01,PWHL Toronto Arena,Club,1269
+2025-01-17,Toronto,TOR_01,PWHL Toronto Arena,Lower Bowl,2961
+2025-01-17,Toronto,TOR_01,PWHL Toronto Arena,Standing Room,423
+2025-01-17,Toronto,TOR_01,PWHL Toronto Arena,Suite,846
+2025-01-17,Toronto,TOR_01,PWHL Toronto Arena,Upper Bowl,2961
+2025-01-17,Washington,WAS_01,PWHL Washington Arena,Club,1269
+2025-01-17,Washington,WAS_01,PWHL Washington Arena,Lower Bowl,2961
+2025-01-17,Washington,WAS_01,PWHL Washington Arena,Standing Room,423
+2025-01-17,Washington,WAS_01,PWHL Washington Arena,Suite,846
+2025-01-17,Washington,WAS_01,PWHL Washington Arena,Upper Bowl,2961
+2025-01-22,Boston,BOS_01,PWHL Boston Arena,Club,1128
+2025-01-22,Boston,BOS_01,PWHL Boston Arena,Lower Bowl,2632
+2025-01-22,Boston,BOS_01,PWHL Boston Arena,Standing Room,376
+2025-01-22,Boston,BOS_01,PWHL Boston Arena,Suite,752
+2025-01-22,Boston,BOS_01,PWHL Boston Arena,Upper Bowl,2632
+2025-01-22,Chicago,CHI_01,PWHL Chicago Arena,Club,1128
+2025-01-22,Chicago,CHI_01,PWHL Chicago Arena,Lower Bowl,2632
+2025-01-22,Chicago,CHI_01,PWHL Chicago Arena,Standing Room,376
+2025-01-22,Chicago,CHI_01,PWHL Chicago Arena,Suite,752
+2025-01-22,Chicago,CHI_01,PWHL Chicago Arena,Upper Bowl,2632
+2025-01-22,Minneapolis,MSP_01,PWHL Minnesota Arena,Club,1128
+2025-01-22,Minneapolis,MSP_01,PWHL Minnesota Arena,Lower Bowl,2632
+2025-01-22,Minneapolis,MSP_01,PWHL Minnesota Arena,Standing Room,376
+2025-01-22,Minneapolis,MSP_01,PWHL Minnesota Arena,Suite,752
+2025-01-22,Minneapolis,MSP_01,PWHL Minnesota Arena,Upper Bowl,2632
+2025-01-22,Montreal,MTL_01,PWHL Montreal Arena,Club,1128
+2025-01-22,Montreal,MTL_01,PWHL Montreal Arena,Lower Bowl,2632
+2025-01-22,Montreal,MTL_01,PWHL Montreal Arena,Standing Room,376
+2025-01-22,Montreal,MTL_01,PWHL Montreal Arena,Suite,752
+2025-01-22,Montreal,MTL_01,PWHL Montreal Arena,Upper Bowl,2632
+2025-01-22,New York,NYC_01,PWHL New York Arena,Club,1128
+2025-01-22,New York,NYC_01,PWHL New York Arena,Lower Bowl,2632
+2025-01-22,New York,NYC_01,PWHL New York Arena,Standing Room,376
+2025-01-22,New York,NYC_01,PWHL New York Arena,Suite,752
+2025-01-22,New York,NYC_01,PWHL New York Arena,Upper Bowl,2632
+2025-01-22,Ottawa,OTT_01,PWHL Ottawa Arena,Club,1128
+2025-01-22,Ottawa,OTT_01,PWHL Ottawa Arena,Lower Bowl,2632
+2025-01-22,Ottawa,OTT_01,PWHL Ottawa Arena,Standing Room,376
+2025-01-22,Ottawa,OTT_01,PWHL Ottawa Arena,Suite,752
+2025-01-22,Ottawa,OTT_01,PWHL Ottawa Arena,Upper Bowl,2632
+2025-01-22,Toronto,TOR_01,PWHL Toronto Arena,Club,1128
+2025-01-22,Toronto,TOR_01,PWHL Toronto Arena,Lower Bowl,2632
+2025-01-22,Toronto,TOR_01,PWHL Toronto Arena,Standing Room,376
+2025-01-22,Toronto,TOR_01,PWHL Toronto Arena,Suite,752
+2025-01-22,Toronto,TOR_01,PWHL Toronto Arena,Upper Bowl,2632
+2025-01-22,Washington,WAS_01,PWHL Washington Arena,Club,1128
+2025-01-22,Washington,WAS_01,PWHL Washington Arena,Lower Bowl,2632
+2025-01-22,Washington,WAS_01,PWHL Washington Arena,Standing Room,376
+2025-01-22,Washington,WAS_01,PWHL Washington Arena,Suite,752
+2025-01-22,Washington,WAS_01,PWHL Washington Arena,Upper Bowl,2632
+2025-01-27,Boston,BOS_01,PWHL Boston Arena,Club,1203
+2025-01-27,Boston,BOS_01,PWHL Boston Arena,Lower Bowl,2807
+2025-01-27,Boston,BOS_01,PWHL Boston Arena,Standing Room,401
+2025-01-27,Boston,BOS_01,PWHL Boston Arena,Suite,802
+2025-01-27,Boston,BOS_01,PWHL Boston Arena,Upper Bowl,2807
+2025-01-27,Chicago,CHI_01,PWHL Chicago Arena,Club,1203
+2025-01-27,Chicago,CHI_01,PWHL Chicago Arena,Lower Bowl,2807
+2025-01-27,Chicago,CHI_01,PWHL Chicago Arena,Standing Room,401
+2025-01-27,Chicago,CHI_01,PWHL Chicago Arena,Suite,802
+2025-01-27,Chicago,CHI_01,PWHL Chicago Arena,Upper Bowl,2807
+2025-01-27,Minneapolis,MSP_01,PWHL Minnesota Arena,Club,1203
+2025-01-27,Minneapolis,MSP_01,PWHL Minnesota Arena,Lower Bowl,2807
+2025-01-27,Minneapolis,MSP_01,PWHL Minnesota Arena,Standing Room,401
+2025-01-27,Minneapolis,MSP_01,PWHL Minnesota Arena,Suite,802
+2025-01-27,Minneapolis,MSP_01,PWHL Minnesota Arena,Upper Bowl,2807
+2025-01-27,Montreal,MTL_01,PWHL Montreal Arena,Club,1203
+2025-01-27,Montreal,MTL_01,PWHL Montreal Arena,Lower Bowl,2807
+2025-01-27,Montreal,MTL_01,PWHL Montreal Arena,Standing Room,401
+2025-01-27,Montreal,MTL_01,PWHL Montreal Arena,Suite,802
+2025-01-27,Montreal,MTL_01,PWHL Montreal Arena,Upper Bowl,2807
+2025-01-27,New York,NYC_01,PWHL New York Arena,Club,1203
+2025-01-27,New York,NYC_01,PWHL New York Arena,Lower Bowl,2807
+2025-01-27,New York,NYC_01,PWHL New York Arena,Standing Room,401
+2025-01-27,New York,NYC_01,PWHL New York Arena,Suite,802
+2025-01-27,New York,NYC_01,PWHL New York Arena,Upper Bowl,2807
+2025-01-27,Ottawa,OTT_01,PWHL Ottawa Arena,Club,1203
+2025-01-27,Ottawa,OTT_01,PWHL Ottawa Arena,Lower Bowl,2807
+2025-01-27,Ottawa,OTT_01,PWHL Ottawa Arena,Standing Room,401
+2025-01-27,Ottawa,OTT_01,PWHL Ottawa Arena,Suite,802
+2025-01-27,Ottawa,OTT_01,PWHL Ottawa Arena,Upper Bowl,2807
+2025-01-27,Toronto,TOR_01,PWHL Toronto Arena,Club,1203
+2025-01-27,Toronto,TOR_01,PWHL Toronto Arena,Lower Bowl,2807
+2025-01-27,Toronto,TOR_01,PWHL Toronto Arena,Standing Room,401
+2025-01-27,Toronto,TOR_01,PWHL Toronto Arena,Suite,802
+2025-01-27,Toronto,TOR_01,PWHL Toronto Arena,Upper Bowl,2807
+2025-01-27,Washington,WAS_01,PWHL Washington Arena,Club,1203
+2025-01-27,Washington,WAS_01,PWHL Washington Arena,Lower Bowl,2807
+2025-01-27,Washington,WAS_01,PWHL Washington Arena,Standing Room,401
+2025-01-27,Washington,WAS_01,PWHL Washington Arena,Suite,802
+2025-01-27,Washington,WAS_01,PWHL Washington Arena,Upper Bowl,2807
+2025-01-31,Boston,BOS_01,PWHL Boston Arena,Club,1134
+2025-01-31,Boston,BOS_01,PWHL Boston Arena,Lower Bowl,2646
+2025-01-31,Boston,BOS_01,PWHL Boston Arena,Standing Room,378
+2025-01-31,Boston,BOS_01,PWHL Boston Arena,Suite,756
+2025-01-31,Boston,BOS_01,PWHL Boston Arena,Upper Bowl,2646
+2025-01-31,Chicago,CHI_01,PWHL Chicago Arena,Club,1134
+2025-01-31,Chicago,CHI_01,PWHL Chicago Arena,Lower Bowl,2646
+2025-01-31,Chicago,CHI_01,PWHL Chicago Arena,Standing Room,378
+2025-01-31,Chicago,CHI_01,PWHL Chicago Arena,Suite,756
+2025-01-31,Chicago,CHI_01,PWHL Chicago Arena,Upper Bowl,2646
+2025-01-31,Minneapolis,MSP_01,PWHL Minnesota Arena,Club,1134
+2025-01-31,Minneapolis,MSP_01,PWHL Minnesota Arena,Lower Bowl,2646
+2025-01-31,Minneapolis,MSP_01,PWHL Minnesota Arena,Standing Room,378
+2025-01-31,Minneapolis,MSP_01,PWHL Minnesota Arena,Suite,756
+2025-01-31,Minneapolis,MSP_01,PWHL Minnesota Arena,Upper Bowl,2646
+2025-01-31,Montreal,MTL_01,PWHL Montreal Arena,Club,1134
+2025-01-31,Montreal,MTL_01,PWHL Montreal Arena,Lower Bowl,2646
+2025-01-31,Montreal,MTL_01,PWHL Montreal Arena,Standing Room,378
+2025-01-31,Montreal,MTL_01,PWHL Montreal Arena,Suite,756
+2025-01-31,Montreal,MTL_01,PWHL Montreal Arena,Upper Bowl,2646
+2025-01-31,New York,NYC_01,PWHL New York Arena,Club,1134
+2025-01-31,New York,NYC_01,PWHL New York Arena,Lower Bowl,2646
+2025-01-31,New York,NYC_01,PWHL New York Arena,Standing Room,378
+2025-01-31,New York,NYC_01,PWHL New York Arena,Suite,756
+2025-01-31,New York,NYC_01,PWHL New York Arena,Upper Bowl,2646
+2025-01-31,Ottawa,OTT_01,PWHL Ottawa Arena,Club,1134
+2025-01-31,Ottawa,OTT_01,PWHL Ottawa Arena,Lower Bowl,2646
+2025-01-31,Ottawa,OTT_01,PWHL Ottawa Arena,Standing Room,378
+2025-01-31,Ottawa,OTT_01,PWHL Ottawa Arena,Suite,756
+2025-01-31,Ottawa,OTT_01,PWHL Ottawa Arena,Upper Bowl,2646
+2025-01-31,Toronto,TOR_01,PWHL Toronto Arena,Club,1134
+2025-01-31,Toronto,TOR_01,PWHL Toronto Arena,Lower Bowl,2646
+2025-01-31,Toronto,TOR_01,PWHL Toronto Arena,Standing Room,378
+2025-01-31,Toronto,TOR_01,PWHL Toronto Arena,Suite,756
+2025-01-31,Toronto,TOR_01,PWHL Toronto Arena,Upper Bowl,2646
+2025-01-31,Washington,WAS_01,PWHL Washington Arena,Club,1134
+2025-01-31,Washington,WAS_01,PWHL Washington Arena,Lower Bowl,2646
+2025-01-31,Washington,WAS_01,PWHL Washington Arena,Standing Room,378
+2025-01-31,Washington,WAS_01,PWHL Washington Arena,Suite,756
+2025-01-31,Washington,WAS_01,PWHL Washington Arena,Upper Bowl,2646
+2025-02-03,Boston,BOS_01,PWHL Boston Arena,Club,1177
+2025-02-03,Boston,BOS_01,PWHL Boston Arena,Lower Bowl,2747
+2025-02-03,Boston,BOS_01,PWHL Boston Arena,Standing Room,392
+2025-02-03,Boston,BOS_01,PWHL Boston Arena,Suite,785
+2025-02-03,Boston,BOS_01,PWHL Boston Arena,Upper Bowl,2747
+2025-02-03,Chicago,CHI_01,PWHL Chicago Arena,Club,1177
+2025-02-03,Chicago,CHI_01,PWHL Chicago Arena,Lower Bowl,2747
+2025-02-03,Chicago,CHI_01,PWHL Chicago Arena,Standing Room,392
+2025-02-03,Chicago,CHI_01,PWHL Chicago Arena,Suite,785
+2025-02-03,Chicago,CHI_01,PWHL Chicago Arena,Upper Bowl,2747
+2025-02-03,Minneapolis,MSP_01,PWHL Minnesota Arena,Club,1177
+2025-02-03,Minneapolis,MSP_01,PWHL Minnesota Arena,Lower Bowl,2747
+2025-02-03,Minneapolis,MSP_01,PWHL Minnesota Arena,Standing Room,392
+2025-02-03,Minneapolis,MSP_01,PWHL Minnesota Arena,Suite,785
+2025-02-03,Minneapolis,MSP_01,PWHL Minnesota Arena,Upper Bowl,2747
+2025-02-03,Montreal,MTL_01,PWHL Montreal Arena,Club,1177
+2025-02-03,Montreal,MTL_01,PWHL Montreal Arena,Lower Bowl,2747
+2025-02-03,Montreal,MTL_01,PWHL Montreal Arena,Standing Room,392
+2025-02-03,Montreal,MTL_01,PWHL Montreal Arena,Suite,785
+2025-02-03,Montreal,MTL_01,PWHL Montreal Arena,Upper Bowl,2747
+2025-02-03,New York,NYC_01,PWHL New York Arena,Club,1177
+2025-02-03,New York,NYC_01,PWHL New York Arena,Lower Bowl,2747
+2025-02-03,New York,NYC_01,PWHL New York Arena,Standing Room,392
+2025-02-03,New York,NYC_01,PWHL New York Arena,Suite,785
+2025-02-03,New York,NYC_01,PWHL New York Arena,Upper Bowl,2747
+2025-02-03,Ottawa,OTT_01,PWHL Ottawa Arena,Club,1177
+2025-02-03,Ottawa,OTT_01,PWHL Ottawa Arena,Lower Bowl,2747
+2025-02-03,Ottawa,OTT_01,PWHL Ottawa Arena,Standing Room,392
+2025-02-03,Ottawa,OTT_01,PWHL Ottawa Arena,Suite,785
+2025-02-03,Ottawa,OTT_01,PWHL Ottawa Arena,Upper Bowl,2747
+2025-02-03,Toronto,TOR_01,PWHL Toronto Arena,Club,1177
+2025-02-03,Toronto,TOR_01,PWHL Toronto Arena,Lower Bowl,2747
+2025-02-03,Toronto,TOR_01,PWHL Toronto Arena,Standing Room,392
+2025-02-03,Toronto,TOR_01,PWHL Toronto Arena,Suite,785
+2025-02-03,Toronto,TOR_01,PWHL Toronto Arena,Upper Bowl,2747
+2025-02-03,Washington,WAS_01,PWHL Washington Arena,Club,1177
+2025-02-03,Washington,WAS_01,PWHL Washington Arena,Lower Bowl,2747
+2025-02-03,Washington,WAS_01,PWHL Washington Arena,Standing Room,392
+2025-02-03,Washington,WAS_01,PWHL Washington Arena,Suite,785
+2025-02-03,Washington,WAS_01,PWHL Washington Arena,Upper Bowl,2747
+2025-02-08,Boston,BOS_01,PWHL Boston Arena,Club,1159
+2025-02-08,Boston,BOS_01,PWHL Boston Arena,Lower Bowl,2706
+2025-02-08,Boston,BOS_01,PWHL Boston Arena,Standing Room,386
+2025-02-08,Boston,BOS_01,PWHL Boston Arena,Suite,773
+2025-02-08,Boston,BOS_01,PWHL Boston Arena,Upper Bowl,2706
+2025-02-08,Chicago,CHI_01,PWHL Chicago Arena,Club,1159
+2025-02-08,Chicago,CHI_01,PWHL Chicago Arena,Lower Bowl,2706
+2025-02-08,Chicago,CHI_01,PWHL Chicago Arena,Standing Room,386
+2025-02-08,Chicago,CHI_01,PWHL Chicago Arena,Suite,773
+2025-02-08,Chicago,CHI_01,PWHL Chicago Arena,Upper Bowl,2706
+2025-02-08,Minneapolis,MSP_01,PWHL Minnesota Arena,Club,1159
+2025-02-08,Minneapolis,MSP_01,PWHL Minnesota Arena,Lower Bowl,2706
+2025-02-08,Minneapolis,MSP_01,PWHL Minnesota Arena,Standing Room,386
+2025-02-08,Minneapolis,MSP_01,PWHL Minnesota Arena,Suite,773
+2025-02-08,Minneapolis,MSP_01,PWHL Minnesota Arena,Upper Bowl,2706
+2025-02-08,Montreal,MTL_01,PWHL Montreal Arena,Club,1159
+2025-02-08,Montreal,MTL_01,PWHL Montreal Arena,Lower Bowl,2706
+2025-02-08,Montreal,MTL_01,PWHL Montreal Arena,Standing Room,386
+2025-02-08,Montreal,MTL_01,PWHL Montreal Arena,Suite,773
+2025-02-08,Montreal,MTL_01,PWHL Montreal Arena,Upper Bowl,2706
+2025-02-08,New York,NYC_01,PWHL New York Arena,Club,1159
+2025-02-08,New York,NYC_01,PWHL New York Arena,Lower Bowl,2706
+2025-02-08,New York,NYC_01,PWHL New York Arena,Standing Room,386
+2025-02-08,New York,NYC_01,PWHL New York Arena,Suite,773
+2025-02-08,New York,NYC_01,PWHL New York Arena,Upper Bowl,2706
+2025-02-08,Ottawa,OTT_01,PWHL Ottawa Arena,Club,1159
+2025-02-08,Ottawa,OTT_01,PWHL Ottawa Arena,Lower Bowl,2706
+2025-02-08,Ottawa,OTT_01,PWHL Ottawa Arena,Standing Room,386
+2025-02-08,Ottawa,OTT_01,PWHL Ottawa Arena,Suite,773
+2025-02-08,Ottawa,OTT_01,PWHL Ottawa Arena,Upper Bowl,2706
+2025-02-08,Toronto,TOR_01,PWHL Toronto Arena,Club,1159
+2025-02-08,Toronto,TOR_01,PWHL Toronto Arena,Lower Bowl,2706
+2025-02-08,Toronto,TOR_01,PWHL Toronto Arena,Standing Room,386
+2025-02-08,Toronto,TOR_01,PWHL Toronto Arena,Suite,773
+2025-02-08,Toronto,TOR_01,PWHL Toronto Arena,Upper Bowl,2706
+2025-02-08,Washington,WAS_01,PWHL Washington Arena,Club,1159
+2025-02-08,Washington,WAS_01,PWHL Washington Arena,Lower Bowl,2706
+2025-02-08,Washington,WAS_01,PWHL Washington Arena,Standing Room,386
+2025-02-08,Washington,WAS_01,PWHL Washington Arena,Suite,773
+2025-02-08,Washington,WAS_01,PWHL Washington Arena,Upper Bowl,2706
+2025-02-13,Boston,BOS_01,PWHL Boston Arena,Club,1146
+2025-02-13,Boston,BOS_01,PWHL Boston Arena,Lower Bowl,2675
+2025-02-13,Boston,BOS_01,PWHL Boston Arena,Standing Room,382
+2025-02-13,Boston,BOS_01,PWHL Boston Arena,Suite,764
+2025-02-13,Boston,BOS_01,PWHL Boston Arena,Upper Bowl,2675
+2025-02-13,Chicago,CHI_01,PWHL Chicago Arena,Club,1146
+2025-02-13,Chicago,CHI_01,PWHL Chicago Arena,Lower Bowl,2675
+2025-02-13,Chicago,CHI_01,PWHL Chicago Arena,Standing Room,382
+2025-02-13,Chicago,CHI_01,PWHL Chicago Arena,Suite,764
+2025-02-13,Chicago,CHI_01,PWHL Chicago Arena,Upper Bowl,2675
+2025-02-13,Minneapolis,MSP_01,PWHL Minnesota Arena,Club,1146
+2025-02-13,Minneapolis,MSP_01,PWHL Minnesota Arena,Lower Bowl,2675
+2025-02-13,Minneapolis,MSP_01,PWHL Minnesota Arena,Standing Room,382
+2025-02-13,Minneapolis,MSP_01,PWHL Minnesota Arena,Suite,764
+2025-02-13,Minneapolis,MSP_01,PWHL Minnesota Arena,Upper Bowl,2675
+2025-02-13,Montreal,MTL_01,PWHL Montreal Arena,Club,1146
+2025-02-13,Montreal,MTL_01,PWHL Montreal Arena,Lower Bowl,2675
+2025-02-13,Montreal,MTL_01,PWHL Montreal Arena,Standing Room,382
+2025-02-13,Montreal,MTL_01,PWHL Montreal Arena,Suite,764
+2025-02-13,Montreal,MTL_01,PWHL Montreal Arena,Upper Bowl,2675
+2025-02-13,New York,NYC_01,PWHL New York Arena,Club,1146
+2025-02-13,New York,NYC_01,PWHL New York Arena,Lower Bowl,2675
+2025-02-13,New York,NYC_01,PWHL New York Arena,Standing Room,382
+2025-02-13,New York,NYC_01,PWHL New York Arena,Suite,764
+2025-02-13,New York,NYC_01,PWHL New York Arena,Upper Bowl,2675
+2025-02-13,Ottawa,OTT_01,PWHL Ottawa Arena,Club,1146
+2025-02-13,Ottawa,OTT_01,PWHL Ottawa Arena,Lower Bowl,2675
+2025-02-13,Ottawa,OTT_01,PWHL Ottawa Arena,Standing Room,382
+2025-02-13,Ottawa,OTT_01,PWHL Ottawa Arena,Suite,764
+2025-02-13,Ottawa,OTT_01,PWHL Ottawa Arena,Upper Bowl,2675
+2025-02-13,Toronto,TOR_01,PWHL Toronto Arena,Club,1146
+2025-02-13,Toronto,TOR_01,PWHL Toronto Arena,Lower Bowl,2675
+2025-02-13,Toronto,TOR_01,PWHL Toronto Arena,Standing Room,382
+2025-02-13,Toronto,TOR_01,PWHL Toronto Arena,Suite,764
+2025-02-13,Toronto,TOR_01,PWHL Toronto Arena,Upper Bowl,2675
+2025-02-13,Washington,WAS_01,PWHL Washington Arena,Club,1146
+2025-02-13,Washington,WAS_01,PWHL Washington Arena,Lower Bowl,2675
+2025-02-13,Washington,WAS_01,PWHL Washington Arena,Standing Room,382
+2025-02-13,Washington,WAS_01,PWHL Washington Arena,Suite,764
+2025-02-13,Washington,WAS_01,PWHL Washington Arena,Upper Bowl,2675
+2025-02-18,Boston,BOS_01,PWHL Boston Arena,Club,1229
+2025-02-18,Boston,BOS_01,PWHL Boston Arena,Lower Bowl,2868
+2025-02-18,Boston,BOS_01,PWHL Boston Arena,Standing Room,409
+2025-02-18,Boston,BOS_01,PWHL Boston Arena,Suite,819
+2025-02-18,Boston,BOS_01,PWHL Boston Arena,Upper Bowl,2868
+2025-02-18,Chicago,CHI_01,PWHL Chicago Arena,Club,1229
+2025-02-18,Chicago,CHI_01,PWHL Chicago Arena,Lower Bowl,2868
+2025-02-18,Chicago,CHI_01,PWHL Chicago Arena,Standing Room,409
+2025-02-18,Chicago,CHI_01,PWHL Chicago Arena,Suite,819
+2025-02-18,Chicago,CHI_01,PWHL Chicago Arena,Upper Bowl,2868
+2025-02-18,Minneapolis,MSP_01,PWHL Minnesota Arena,Club,1229
+2025-02-18,Minneapolis,MSP_01,PWHL Minnesota Arena,Lower Bowl,2868
+2025-02-18,Minneapolis,MSP_01,PWHL Minnesota Arena,Standing Room,409
+2025-02-18,Minneapolis,MSP_01,PWHL Minnesota Arena,Suite,819
+2025-02-18,Minneapolis,MSP_01,PWHL Minnesota Arena,Upper Bowl,2868
+2025-02-18,Montreal,MTL_01,PWHL Montreal Arena,Club,1229
+2025-02-18,Montreal,MTL_01,PWHL Montreal Arena,Lower Bowl,2868
+2025-02-18,Montreal,MTL_01,PWHL Montreal Arena,Standing Room,409
+2025-02-18,Montreal,MTL_01,PWHL Montreal Arena,Suite,819
+2025-02-18,Montreal,MTL_01,PWHL Montreal Arena,Upper Bowl,2868
+2025-02-18,New York,NYC_01,PWHL New York Arena,Club,1229
+2025-02-18,New York,NYC_01,PWHL New York Arena,Lower Bowl,2868
+2025-02-18,New York,NYC_01,PWHL New York Arena,Standing Room,409
+2025-02-18,New York,NYC_01,PWHL New York Arena,Suite,819
+2025-02-18,New York,NYC_01,PWHL New York Arena,Upper Bowl,2868
+2025-02-18,Ottawa,OTT_01,PWHL Ottawa Arena,Club,1229
+2025-02-18,Ottawa,OTT_01,PWHL Ottawa Arena,Lower Bowl,2868
+2025-02-18,Ottawa,OTT_01,PWHL Ottawa Arena,Standing Room,409
+2025-02-18,Ottawa,OTT_01,PWHL Ottawa Arena,Suite,819
+2025-02-18,Ottawa,OTT_01,PWHL Ottawa Arena,Upper Bowl,2868
+2025-02-18,Toronto,TOR_01,PWHL Toronto Arena,Club,1229
+2025-02-18,Toronto,TOR_01,PWHL Toronto Arena,Lower Bowl,2868
+2025-02-18,Toronto,TOR_01,PWHL Toronto Arena,Standing Room,409
+2025-02-18,Toronto,TOR_01,PWHL Toronto Arena,Suite,819
+2025-02-18,Toronto,TOR_01,PWHL Toronto Arena,Upper Bowl,2868
+2025-02-18,Washington,WAS_01,PWHL Washington Arena,Club,1229
+2025-02-18,Washington,WAS_01,PWHL Washington Arena,Lower Bowl,2868
+2025-02-18,Washington,WAS_01,PWHL Washington Arena,Standing Room,409
+2025-02-18,Washington,WAS_01,PWHL Washington Arena,Suite,819
+2025-02-18,Washington,WAS_01,PWHL Washington Arena,Upper Bowl,2868
+2025-02-21,Boston,BOS_01,PWHL Boston Arena,Club,1165
+2025-02-21,Boston,BOS_01,PWHL Boston Arena,Lower Bowl,2718
+2025-02-21,Boston,BOS_01,PWHL Boston Arena,Standing Room,388
+2025-02-21,Boston,BOS_01,PWHL Boston Arena,Suite,776
+2025-02-21,Boston,BOS_01,PWHL Boston Arena,Upper Bowl,2718
+2025-02-21,Chicago,CHI_01,PWHL Chicago Arena,Club,1165
+2025-02-21,Chicago,CHI_01,PWHL Chicago Arena,Lower Bowl,2718
+2025-02-21,Chicago,CHI_01,PWHL Chicago Arena,Standing Room,388
+2025-02-21,Chicago,CHI_01,PWHL Chicago Arena,Suite,776
+2025-02-21,Chicago,CHI_01,PWHL Chicago Arena,Upper Bowl,2718
+2025-02-21,Minneapolis,MSP_01,PWHL Minnesota Arena,Club,1165
+2025-02-21,Minneapolis,MSP_01,PWHL Minnesota Arena,Lower Bowl,2718
+2025-02-21,Minneapolis,MSP_01,PWHL Minnesota Arena,Standing Room,388
+2025-02-21,Minneapolis,MSP_01,PWHL Minnesota Arena,Suite,776
+2025-02-21,Minneapolis,MSP_01,PWHL Minnesota Arena,Upper Bowl,2718
+2025-02-21,Montreal,MTL_01,PWHL Montreal Arena,Club,1165
+2025-02-21,Montreal,MTL_01,PWHL Montreal Arena,Lower Bowl,2718
+2025-02-21,Montreal,MTL_01,PWHL Montreal Arena,Standing Room,388
+2025-02-21,Montreal,MTL_01,PWHL Montreal Arena,Suite,776
+2025-02-21,Montreal,MTL_01,PWHL Montreal Arena,Upper Bowl,2718
+2025-02-21,New York,NYC_01,PWHL New York Arena,Club,1165
+2025-02-21,New York,NYC_01,PWHL New York Arena,Lower Bowl,2718
+2025-02-21,New York,NYC_01,PWHL New York Arena,Standing Room,388
+2025-02-21,New York,NYC_01,PWHL New York Arena,Suite,776
+2025-02-21,New York,NYC_01,PWHL New York Arena,Upper Bowl,2718
+2025-02-21,Ottawa,OTT_01,PWHL Ottawa Arena,Club,1165
+2025-02-21,Ottawa,OTT_01,PWHL Ottawa Arena,Lower Bowl,2718
+2025-02-21,Ottawa,OTT_01,PWHL Ottawa Arena,Standing Room,388
+2025-02-21,Ottawa,OTT_01,PWHL Ottawa Arena,Suite,776
+2025-02-21,Ottawa,OTT_01,PWHL Ottawa Arena,Upper Bowl,2718
+2025-02-21,Toronto,TOR_01,PWHL Toronto Arena,Club,1165
+2025-02-21,Toronto,TOR_01,PWHL Toronto Arena,Lower Bowl,2718
+2025-02-21,Toronto,TOR_01,PWHL Toronto Arena,Standing Room,388
+2025-02-21,Toronto,TOR_01,PWHL Toronto Arena,Suite,776
+2025-02-21,Toronto,TOR_01,PWHL Toronto Arena,Upper Bowl,2718
+2025-02-21,Washington,WAS_01,PWHL Washington Arena,Club,1165
+2025-02-21,Washington,WAS_01,PWHL Washington Arena,Lower Bowl,2718
+2025-02-21,Washington,WAS_01,PWHL Washington Arena,Standing Room,388
+2025-02-21,Washington,WAS_01,PWHL Washington Arena,Suite,776
+2025-02-21,Washington,WAS_01,PWHL Washington Arena,Upper Bowl,2718
+2025-02-24,Boston,BOS_01,PWHL Boston Arena,Club,1219
+2025-02-24,Boston,BOS_01,PWHL Boston Arena,Lower Bowl,2844
+2025-02-24,Boston,BOS_01,PWHL Boston Arena,Standing Room,406
+2025-02-24,Boston,BOS_01,PWHL Boston Arena,Suite,812
+2025-02-24,Boston,BOS_01,PWHL Boston Arena,Upper Bowl,2844
+2025-02-24,Chicago,CHI_01,PWHL Chicago Arena,Club,1219
+2025-02-24,Chicago,CHI_01,PWHL Chicago Arena,Lower Bowl,2844
+2025-02-24,Chicago,CHI_01,PWHL Chicago Arena,Standing Room,406
+2025-02-24,Chicago,CHI_01,PWHL Chicago Arena,Suite,812
+2025-02-24,Chicago,CHI_01,PWHL Chicago Arena,Upper Bowl,2844
+2025-02-24,Minneapolis,MSP_01,PWHL Minnesota Arena,Club,1219
+2025-02-24,Minneapolis,MSP_01,PWHL Minnesota Arena,Lower Bowl,2844
+2025-02-24,Minneapolis,MSP_01,PWHL Minnesota Arena,Standing Room,406
+2025-02-24,Minneapolis,MSP_01,PWHL Minnesota Arena,Suite,812
+2025-02-24,Minneapolis,MSP_01,PWHL Minnesota Arena,Upper Bowl,2844
+2025-02-24,Montreal,MTL_01,PWHL Montreal Arena,Club,1219
+2025-02-24,Montreal,MTL_01,PWHL Montreal Arena,Lower Bowl,2844
+2025-02-24,Montreal,MTL_01,PWHL Montreal Arena,Standing Room,406
+2025-02-24,Montreal,MTL_01,PWHL Montreal Arena,Suite,812
+2025-02-24,Montreal,MTL_01,PWHL Montreal Arena,Upper Bowl,2844
+2025-02-24,New York,NYC_01,PWHL New York Arena,Club,1219
+2025-02-24,New York,NYC_01,PWHL New York Arena,Lower Bowl,2844
+2025-02-24,New York,NYC_01,PWHL New York Arena,Standing Room,406
+2025-02-24,New York,NYC_01,PWHL New York Arena,Suite,812
+2025-02-24,New York,NYC_01,PWHL New York Arena,Upper Bowl,2844
+2025-02-24,Ottawa,OTT_01,PWHL Ottawa Arena,Club,1219
+2025-02-24,Ottawa,OTT_01,PWHL Ottawa Arena,Lower Bowl,2844
+2025-02-24,Ottawa,OTT_01,PWHL Ottawa Arena,Standing Room,406
+2025-02-24,Ottawa,OTT_01,PWHL Ottawa Arena,Suite,812
+2025-02-24,Ottawa,OTT_01,PWHL Ottawa Arena,Upper Bowl,2844
+2025-02-24,Toronto,TOR_01,PWHL Toronto Arena,Club,1219
+2025-02-24,Toronto,TOR_01,PWHL Toronto Arena,Lower Bowl,2844
+2025-02-24,Toronto,TOR_01,PWHL Toronto Arena,Standing Room,406
+2025-02-24,Toronto,TOR_01,PWHL Toronto Arena,Suite,812
+2025-02-24,Toronto,TOR_01,PWHL Toronto Arena,Upper Bowl,2844
+2025-02-24,Washington,WAS_01,PWHL Washington Arena,Club,1219
+2025-02-24,Washington,WAS_01,PWHL Washington Arena,Lower Bowl,2844
+2025-02-24,Washington,WAS_01,PWHL Washington Arena,Standing Room,406
+2025-02-24,Washington,WAS_01,PWHL Washington Arena,Suite,812
+2025-02-24,Washington,WAS_01,PWHL Washington Arena,Upper Bowl,2844
+2025-02-28,Boston,BOS_01,PWHL Boston Arena,Club,1193
+2025-02-28,Boston,BOS_01,PWHL Boston Arena,Lower Bowl,2783
+2025-02-28,Boston,BOS_01,PWHL Boston Arena,Standing Room,397
+2025-02-28,Boston,BOS_01,PWHL Boston Arena,Suite,795
+2025-02-28,Boston,BOS_01,PWHL Boston Arena,Upper Bowl,2783
+2025-02-28,Chicago,CHI_01,PWHL Chicago Arena,Club,1193
+2025-02-28,Chicago,CHI_01,PWHL Chicago Arena,Lower Bowl,2783
+2025-02-28,Chicago,CHI_01,PWHL Chicago Arena,Standing Room,397
+2025-02-28,Chicago,CHI_01,PWHL Chicago Arena,Suite,795
+2025-02-28,Chicago,CHI_01,PWHL Chicago Arena,Upper Bowl,2783
+2025-02-28,Minneapolis,MSP_01,PWHL Minnesota Arena,Club,1193
+2025-02-28,Minneapolis,MSP_01,PWHL Minnesota Arena,Lower Bowl,2783
+2025-02-28,Minneapolis,MSP_01,PWHL Minnesota Arena,Standing Room,397
+2025-02-28,Minneapolis,MSP_01,PWHL Minnesota Arena,Suite,795
+2025-02-28,Minneapolis,MSP_01,PWHL Minnesota Arena,Upper Bowl,2783
+2025-02-28,Montreal,MTL_01,PWHL Montreal Arena,Club,1193
+2025-02-28,Montreal,MTL_01,PWHL Montreal Arena,Lower Bowl,2783
+2025-02-28,Montreal,MTL_01,PWHL Montreal Arena,Standing Room,397
+2025-02-28,Montreal,MTL_01,PWHL Montreal Arena,Suite,795
+2025-02-28,Montreal,MTL_01,PWHL Montreal Arena,Upper Bowl,2783
+2025-02-28,New York,NYC_01,PWHL New York Arena,Club,1193
+2025-02-28,New York,NYC_01,PWHL New York Arena,Lower Bowl,2783
+2025-02-28,New York,NYC_01,PWHL New York Arena,Standing Room,397
+2025-02-28,New York,NYC_01,PWHL New York Arena,Suite,795
+2025-02-28,New York,NYC_01,PWHL New York Arena,Upper Bowl,2783
+2025-02-28,Ottawa,OTT_01,PWHL Ottawa Arena,Club,1193
+2025-02-28,Ottawa,OTT_01,PWHL Ottawa Arena,Lower Bowl,2783
+2025-02-28,Ottawa,OTT_01,PWHL Ottawa Arena,Standing Room,397
+2025-02-28,Ottawa,OTT_01,PWHL Ottawa Arena,Suite,795
+2025-02-28,Ottawa,OTT_01,PWHL Ottawa Arena,Upper Bowl,2783
+2025-02-28,Toronto,TOR_01,PWHL Toronto Arena,Club,1193
+2025-02-28,Toronto,TOR_01,PWHL Toronto Arena,Lower Bowl,2783
+2025-02-28,Toronto,TOR_01,PWHL Toronto Arena,Standing Room,397
+2025-02-28,Toronto,TOR_01,PWHL Toronto Arena,Suite,795
+2025-02-28,Toronto,TOR_01,PWHL Toronto Arena,Upper Bowl,2783
+2025-02-28,Washington,WAS_01,PWHL Washington Arena,Club,1193
+2025-02-28,Washington,WAS_01,PWHL Washington Arena,Lower Bowl,2783
+2025-02-28,Washington,WAS_01,PWHL Washington Arena,Standing Room,397
+2025-02-28,Washington,WAS_01,PWHL Washington Arena,Suite,795
+2025-02-28,Washington,WAS_01,PWHL Washington Arena,Upper Bowl,2783

@@ -1,0 +1,17 @@
+﻿weather:
+  provider: open-meteo-era5
+  start_date: "2025-01-01"
+  end_date: "2025-02-28"
+  hourly: "temperature_2m,relative_humidity_2m,wind_speed_10m,precipitation"
+  base_url: "https://archive-api.open-meteo.com/v1/era5"
+  timeout_seconds: 60
+  out_csv: "data/raw/weather/weather_hourly_2025-01_2025-02.csv"
+  log_file: "logs/ingest_weather.log"
+
+bigquery:
+  project_id: ${BQ_PROJECT_ID}               
+  dataset_id: "pwhl_takehome"
+  location: "US"
+  table_id: "fact_ticket_sales_with_weather"
+  write_disposition: "WRITE_TRUNCATE"
+  source_csv: "data/cleaned/fact_ticket_sales_with_weather.csv"
