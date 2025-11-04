@@ -78,6 +78,15 @@ PWHL_DE_TAKEHOME/
 
 # Setup Instructions
 
+## Authentication Setup
+
+To run the pipeline and interact with Google BigQuery, you must authenticate your Google Cloud account.
+
+1. Install the [Google Cloud SDK](https://cloud.google.com/sdk/docs/install) if you haven't already.
+2. Run the following command to authenticate your Google Cloud account:
+   ```bash
+   gcloud auth application-default login
+
 ### 1. Clone the Repository
 
 ```
@@ -345,6 +354,7 @@ Overall, the EDA demonstrates that the data pipeline, schema design, and BigQuer
 **Name:** Roman Esquibel<br>
 **Date:** November 2025<br>
 **Contact:**  romanesquib@gmail.com
+
 
 
 
