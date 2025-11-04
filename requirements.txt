@@ -9,6 +9,6 @@ google-cloud-bigquery==3.1.0
 google-cloud==3.1.0
 prefect==2.0.0
 google-auth==2.3.0
-fastparquet==0.7.0  # or pyarrow==6.0.0
+pyarrow==6.0.0
 
 
