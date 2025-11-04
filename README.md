@@ -342,9 +342,10 @@ Overall, the EDA demonstrates that the data pipeline, schema design, and BigQuer
 
 # Author
 
-**Name:** Roman Esquibel
-**Date:** November 2025
+**Name:** Roman Esquibel<br>
+**Date:** November 2025<br>
 **Contact:**  romanesquib@gmail.com
+
 
 
 
