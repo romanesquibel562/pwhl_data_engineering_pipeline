@@ -290,9 +290,13 @@ Overall, the EDA demonstrates that the data pipeline, schema design, and BigQuer
 
 ## Key Findings
 
-* All dataset joins executed correctly
-* Schemas are aligned
-* Transformations preserve numeric integrity
+Data Integrity: All dataset joins (ticket sales, section capacity, and weather data) were successfully executed with no null or duplicate values.
+
+Revenue Distribution: The Upper Bowl and Lower Bowl sections contributed the most to total revenue due to high ticket volume. Club and Suite sections had higher prices but generated lower total revenue.
+
+Market Utilization: The average market utilization rate was 59.7%, consistent with synthetic test data. Warmer markets showed a positive correlation between temperature and attendance, while colder regions had weaker or negative correlations.
+
+Model Validation: The schema and data pipeline are functioning as expected, enabling efficient aggregation and correlation queries. This lays a solid foundation for future analyses, such as attendance forecasting and pricing optimization.
 
 ---
 
@@ -354,6 +358,7 @@ Overall, the EDA demonstrates that the data pipeline, schema design, and BigQuer
 **Name:** Roman Esquibel<br>
 **Date:** November 2025<br>
 **Contact:**  romanesquib@gmail.com
+
 
 
 
