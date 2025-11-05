@@ -298,6 +298,12 @@ Market Utilization: The average market utilization rate was 59.7%, consistent wi
 
 Model Validation: The schema and data pipeline are functioning as expected, enabling efficient aggregation and correlation queries. This lays a solid foundation for future analyses, such as attendance forecasting and pricing optimization.
 
+## Supporting Visuals
+
+<img width="908" height="492" alt="image" src="https://github.com/user-attachments/assets/7b7bc73c-d81f-414f-8d2f-9c2f558f18d6" />
+
+<img width="918" height="492" alt="image" src="https://github.com/user-attachments/assets/f93353ee-8641-4b9f-9551-e33af9f5042e" />
+
 ---
 
 ## Section-Level Insights
@@ -358,6 +364,7 @@ Model Validation: The schema and data pipeline are functioning as expected, enab
 **Name:** Roman Esquibel<br>
 **Date:** November 2025<br>
 **Contact:**  romanesquib@gmail.com
+
 
 
 
