@@ -145,3 +145,57 @@ SELECT
   CORR(utilization, avg_price) AS corr_util_price
 FROM `lustrous-pivot-475720-n0.pwhl_takehome.vw_sales_weather`;
 
+-- =========================================================================================
+-- 9. Visualization prep: temperature vs utilization (5°C bins)
+--    Aggregates utilization by market and temperature bands for trend visualization.
+-- =========================================================================================
+CREATE OR REPLACE TABLE `lustrous-pivot-475720-n0.pwhl_takehome.viz_temp_vs_util_binned` AS
+SELECT
+  market,
+  ROUND(d.avg_temp_c / 5) * 5 AS temp_bin,
+  AVG(f.utilization) AS avg_utilization
+FROM `lustrous-pivot-475720-n0.pwhl_takehome.fact_ticket_sales` f
+JOIN `lustrous-pivot-475720-n0.pwhl_takehome.dim_weather` d
+  USING (weather_id)
+WHERE d.avg_temp_c IS NOT NULL
+  AND f.utilization IS NOT NULL
+GROUP BY market, temp_bin;
+
+
+-- =========================================================================================
+-- 10. Visualization prep: market-level summary
+--     Builds a per-market summary table with ticket sales, revenue, utilization, and weather.
+-- =========================================================================================
+CREATE OR REPLACE TABLE `lustrous-pivot-475720-n0.pwhl_takehome.viz_market_summary` AS
+SELECT
+  d.market,
+  COUNT(DISTINCT f.event_date) AS event_days,
+  SUM(f.tickets_sold)          AS total_tickets,
+  SUM(f.revenue)               AS total_revenue,
+  ROUND(AVG(f.avg_price), 2)   AS avg_ticket_price,
+  ROUND(AVG(f.utilization), 4) AS avg_utilization,
+  ROUND(AVG(d.avg_temp_c), 2)  AS avg_temp_c
+FROM `lustrous-pivot-475720-n0.pwhl_takehome.fact_ticket_sales` f
+JOIN `lustrous-pivot-475720-n0.pwhl_takehome.dim_weather` d
+  USING (weather_id)
+GROUP BY d.market
+ORDER BY avg_utilization DESC;
+
+
+-- =========================================================================================
+-- 11. Visualization prep: revenue by section and market
+--     Summarizes total and average revenue by section within each market for plotting.
+-- =========================================================================================
+CREATE OR REPLACE TABLE `lustrous-pivot-475720-n0.pwhl_takehome.viz_revenue_by_section_market` AS
+SELECT
+  d.market,
+  f.section,
+  SUM(f.revenue) AS total_revenue,
+  ROUND(AVG(f.avg_price), 2) AS avg_price
+FROM `lustrous-pivot-475720-n0.pwhl_takehome.fact_ticket_sales` f
+JOIN `lustrous-pivot-475720-n0.pwhl_takehome.dim_weather` d
+  USING (weather_id)    -- carries market & event_date aligned to venue
+GROUP BY market, section
+ORDER BY total_revenue DESC;
+
+
